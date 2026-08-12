@@ -1,9 +1,17 @@
-# Hello Developers !
-- <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="25" alt="👋" /> I’m @HarshXIndian ( Harsh Indian )
-- 👀 I’m interested in FullStack Development , JavaScript
-- 🌱 I’m currently honing my skills and working as an educator 
-- 📫 You can reach me by Gmail / Linkedin
-- 😄 Pronouns: He/Him
+👋 Hello Developers!
+
+Hi, I’m Harsh Indian (@HarshXIndian) — an MCA student at MMDU Mullana with a background in web development, programming, and technical education.
+
+🎓 Currently pursuing MCA and focusing on Cloud Computing & Cyber Security </br>
+☁️ Exploring Cloud Computing, Linux, Networking & Cloud Technologies  </br>
+🛡️ Learning and building hands-on knowledge in Cyber Security  </br>
+🐧 Working with Windows, Ubuntu & Kali Linux  </br>
+💻 Experienced with JavaScript, HTML, CSS, C, C++, Java, MySQL & Git/GitHub  </br>
+🚀 I enjoy building projects, experimenting with technologies, and learning through practical implementation  </br>
+📚 Previously worked as a Technical Educator at Hartron Advanced Skill Centre  </br>
+🤝 Open to learning, collaboration, and interesting technology projects  </br>
+📫 Connect with me through GitHub, LinkedIn or Email  </br>
+😄 Pronouns: He/Him  </br>
 
 ## Skills :
 <p align="left" >
@@ -19,14 +27,16 @@
 
 ## About :
 
-I am passionate about web development, programming, and technology education. Currently, I am working as an **Educator at Hartron Advance Skill Center**, where I teach **Networking and Computer Programming Languages** to students. Teaching allows me not only to share knowledge but also to strengthen my own technical understanding every day.
+I’m an **MCA student at MMDU Mullana**, currently exploring **Cloud Computing, Cyber Security, and modern software technologies**. I hold a **BCA degree from Kurukshetra University** and have a background in web development, programming, and technical education.
 
-Along with teaching, I am continuously improving my skills in **HTML, CSS, SASS, and JavaScript** to create smooth and responsive web experiences. My background in **C and C++** has helped me develop strong problem-solving and logical thinking abilities.
+My current focus is on developing a stronger understanding of **Cloud Computing, Linux, Networking, Cyber Security fundamentals, and cloud-based technologies**. I work with **Windows** and Linux environments, including **Ubuntu and Kali Linux**, and continue to strengthen my knowledge through hands-on practice and projects.
 
-Currently, I am also **learning Python and Node.js** to expand my development skills and understand backend technologies better. My main goal is to become a **JavaScript Developer**, and I am consistently working on improving my **JavaScript knowledge and practical skills** through projects and continuous practice.
+I also have practical experience with **HTML, CSS, SCSS, JavaScript, Bootstrap, jQuery, C, C++, Java, MySQL, and Git/GitHub**. I use web development primarily as a way to build projects, experiment with ideas, and understand how different technologies work together.
 
-I also explore concepts related to **PHP and MySQL**, which helps me understand how frontend interfaces connect with backend systems.
+Previously, I worked as a **Technical Educator at Hartron Advanced Skill Centre**, where I taught programming, web development, computer fundamentals, and Cyber Security basics. This experience strengthened both my technical foundation and my ability to explain complex concepts clearly.
 
-I strongly believe in **continuous learning and knowledge sharing**. My aim is to grow both as a **developer and an educator**, helping students build strong technical foundations while I continue exploring modern technologies and building useful web solutions.
+I believe in **continuous learning, hands-on practice, and building things while learning**. My long-term goal is to develop strong expertise in **Cloud Computing and Cyber Security**, while continuing to grow as a software developer and technology professional.
 
-As I move forward, I look forward to contributing to innovative projects, collaborating with passionate developers, and inspiring more learners in the field of technology.
+🚀 **Currently learning:** Cloud Computing • Cyber Security • Linux • Networking • JavaScript • Backend Technologies
+
+📌 **Interests:** Cloud & Infrastructure • Cyber Security • Linux • Networking • Web Development • Software Projects
